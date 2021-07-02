@@ -54,14 +54,14 @@ Download the datasets and link the folders into `Data/` or `data1/`.
 When running python programs, use `--gpu` to specify the GPUs for running the code (e.g. `--gpu 0,1`).
 
 
-### 1. Training Classifier-Baseline
+### 1. Pretraining
 ```
 python train_classifier.py --config configs/train_classifier_mini.yaml
 ```
 
 
 
-### 2. Training Meta-Baseline
+### 2. Meta-fusion Module
 ```
 python train_meta.py --config configs/train_meta_mini.yaml
 ```
