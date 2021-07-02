@@ -6,7 +6,7 @@ In this work, we propose a meta-fusion learning method for effective micro-expre
 
 ## Main Results
 
-*The models on *miniImageNet* and *tieredImageNet* use ResNet-12 as backbone, the channels in each block are **64-128-256-512**, the backbone does **NOT** introduce any additional trick (e.g. DropBlock or wider channel in some recent work).*
+
 
 #### Performance Comparisons between the Proposed Meta-fusion Learning (MFL) Method and the State-of-the-art Methods
 
