@@ -51,7 +51,7 @@ MFL_Micro |0.7733|
 
 Download the datasets and link the folders into `Data/` or `data1/`.
 
-When running python programs, use `--gpu` to specify the GPUs for running the code (e.g. `--gpu 0,1`).
+
 
 
 ### 1. Pretraining
